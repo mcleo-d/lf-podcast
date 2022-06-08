@@ -4,10 +4,6 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './styles.module.css';
-import Feature from '../components/feature';
-import { features } from '../components/feature-config';
-import FeaturesTwo from '../components/featuresTwo';
-import { featuresTwo } from '../components/featuresTwo-config';
 import { podcasts } from "../components/podcasts";
 import FeaturePodcast from "../components/featurePodcast";
 
