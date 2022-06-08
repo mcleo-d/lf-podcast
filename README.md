@@ -1,6 +1,10 @@
-# Linux Foundation Community Podcasts
+# The Untold Stories of Open Source
 
-The Linux Foundation Podcast - Interviews with LF Project Leads and Open Source Advocates
+Open Source is embedded in every software application you touch today.
+
+It’s impossible to build a large scale application without it. The real question is, what’s the story behind that component, application, or framework you just downloaded? Not the specs. Not the functionality. The real story: “Who wrote the code? What is their backstory? What led them to the Open Source community?”
+
+From the Linux Foundation office in New York City, welcome to "The Untold Stories of Open Source". Each week we explore the people who are supporting Open Source projects, how they became involved with it, and the problems they faced along the way.
 
 ### Latest Linux Foundation Podcasts on SoundCloud
 
