@@ -38,9 +38,9 @@
 }
 
 .hero.hero--primary {
-  background-color: #003778;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,55,120,1) 35%, rgba(0,148,255,1) 100%);
   background-repeat: no-repeat;
-  background-size: 340px 340px;
+  background-size: auto;
 }
 
 .hero.hero--primary img {
