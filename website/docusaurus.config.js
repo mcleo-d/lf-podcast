@@ -20,7 +20,7 @@ module.exports = {
     repoUrl: `https://github.com/finos/${projectSlug}`,
     ctaButton: 'CONTRIBUTE YOUR PODCAST EPISODE',
     ctaUrl: 'https://github.com/mcleo-d/lf-podcast',
-    ctaHeader: 'Become part of the Linux Foundation network. Add your episode.'
+    ctaHeader: 'Become part of the Linux Foundation podcast network.'
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
