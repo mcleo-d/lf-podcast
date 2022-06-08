@@ -30,6 +30,10 @@
   color: #ffffff;
 }
 
+.navbar__toggle {
+  color: var(--ifm-color-primary-darkest);
+}
+
 .docusaurus-highlight-code-line {
   background-color: #0033A0;
   display: block;
