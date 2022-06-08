@@ -38,9 +38,9 @@
 }
 
 .hero.hero--primary {
-  background-color: #0086BF;
+  background-color: #003778;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 340px 340px;
 }
 
 .hero.hero--primary img {
