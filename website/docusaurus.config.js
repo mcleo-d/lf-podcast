@@ -25,6 +25,9 @@ module.exports = {
   scripts: ['https://buttons.github.io/buttons.js'],
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
   themeConfig: {
+    colorMode: {
+      disableSwitch: true
+    },
     navbar: {
       title: `${projectName}`,
       logo: {
