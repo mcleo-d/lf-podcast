@@ -54,53 +54,45 @@ module.exports = {
       },
       links: [
         {
-          title: 'Docs',
+          title: 'Getting Started',
           items: [
             {
-              label: 'Getting Started',
-              to: 'docs/home',
+              label: 'Podcast Intro',
+              to: 'docs/podcasts-intro',
             },
             {
-              label: 'Roadmap',
-              to: 'docs/roadmap',
-            },
-            {
-              label: 'Team',
+              label: 'LF Podcast Team',
               to: 'docs/team',
-            },
-            {
-              label: 'About FINOS',
-              to: 'docs/about-finos',
             }
           ]
         },
         {
-          title: 'FINOS',
+          title: 'The Linux Foundation',
           items: [
             {
-              label: 'FINOS Website',
-              to: 'https://regulationinnovation.org/air-events/',
+              label: 'The Linux Foundation Website',
+              to: 'https://linuxfoundation.org/',
             },
             {
-              label: 'Community Handbook',
-              to: 'https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/80642059/Community+Handbook',
+              label: 'About',
+              to: 'https://linuxfoundation.org/about/',
             },
             {
-              label: 'Community Governance',
-              to: 'https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530783/Community+Governance',
+              label: 'Blog',
+              to: 'https://linuxfoundation.org/blog/',
             }
           ]
         },
         {
-          title: 'About FINOS',
+          title: 'Podcast Supporters',
           items: [
             {
-              label: 'FINOS Projects on GitHub',
+              label: 'Fintech Open Source Foundation',
+              to: 'https://www.finos.org/',
+            },
+            {
+              label: 'FINOS GitHub',
               to: 'https://github.com/finos',
-            },
-            {
-              label: 'Engage the FINOS Community',
-              to: 'https://www.finos.org/engage-with-our-community',
             },
             {
               label: 'FINOS News and Events',
