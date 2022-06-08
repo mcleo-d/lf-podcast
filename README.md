@@ -6,19 +6,20 @@ It’s impossible to build a large scale application without it. The real questi
 
 From the Linux Foundation office in New York City, welcome to "The Untold Stories of Open Source". Each week we explore the people who are supporting Open Source projects, how they became involved with it, and the problems they faced along the way.
 
-### Latest Linux Foundation Podcasts on SoundCloud
-
-Listen to the latest Linux Foundation [OWASP Podcast Series](https://soundcloud.com/owasp-podcast/) where Wendy Nather and Matt Tesauro explore [Fast Times at SBOM High](https://soundcloud.com/owasp-podcast/fast-times-at-sbom-high-with-wendy-nather-and-matt-tesauro), alongside Tanya Janca as [She Hacks Purple](https://soundcloud.com/owasp-podcast/tanya-janca). Find the lastest [OWASP Podcast Series](https://soundcloud.com/owasp-podcast/) below.
-
 ## Latest Episodes and More!
 
 Find the latest Linux Foundation episodes and more below ...
 
-| Episode                                                                                                                                                                                                                             | Title                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [![Fast Times at SBOM High with Wendy Nather and Matt Tesauro](https://i1.sndcdn.com/artworks-w7oWbUxpTRdyNtXX-KOVXDw-t67x67.jpg)](https://soundcloud.com/owasp-podcast/fast-times-at-sbom-high-with-wendy-nather-and-matt-tesauro) | [Fast Times at SBOM High with Wendy Nather and Matt Tesauro](docs/podcasts/fast-times-at-sbom-high.mdx) |
-| [![SAFe or UnSAFe at Any Speed](https://i1.sndcdn.com/artworks-YZmEbDMcCChMjj6A-IezvvA-t67x67.jpg)](https://soundcloud.com/owasp-podcast/safe-of-unsafe-at-any-speed)                                                               | [SAFe or UnSAFe at Any Speed](docs/podcasts/safe-or-unsafe-at-any-speed.mdx)                            |
-| [![Tanya Janca - She Hacks Purple](https://i1.sndcdn.com/artworks-4gWbGDUEBZizgpQ9-YIcfzg-t67x67.jpg)](https://soundcloud.com/owasp-podcast/tanya-janca)                                                                            | [Tanya Janca - She Hacks Purple](https://soundcloud.com/owasp-podcast/tanya-janca)                      |
+# Linux Foundation Community Podcasts
+
+Listen to the latest episodes from The Linux Foundation ["The Untold Stories of Open Source"](https://untold-stories-of-open-source.captivate.fm/spotify) podcast below.
+
+| Episode                                                                                                                                                  | Title                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [![Patrick Debois on the Business of Open Source](docs/images/logo-100-100.png)](https://open.spotify.com/episode/3MKsXkw9Et5B9bGLWKJNpc)                | [Patrick Debois on the Business of Open Source](docs/podcasts/business-of-open-source.mdx)                   |
+| [![Brian Behlendorf and the OpenSSF Project](docs/images/logo-100-100.png)](https://open.spotify.com/episode/0P0cjBDn5nSYPe1i0FrFXr)                     | [Brian Behlendorf and the OpenSSF Project](docs/podcasts/openssf-project.mdx)                                |
+| [![Priyanka Sharma, GM, CNCF](docs/images/logo-100-100.png)](https://open.spotify.com/episode/5KgqNXHHV0y03yjgg7kg8E)                                    | [Priyanka Sharma, GM, CNCF](docs/podcasts/priyanka-sharma-gm-cncf.mdx)                                       |
+| [![An Introduction to the new Podcast from the Linux Foundation](docs/images/logo-100-100.png)](https://open.spotify.com/episode/62DAkdeQTSAPeLbxF2sTlX) | [An Introduction to the new Podcast from the Linux Foundation](docs/podcasts/introduction-to-lf-podcast.mdx) |
 
 ## Listen in your Browser
 
