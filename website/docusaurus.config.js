@@ -36,8 +36,8 @@ module.exports = {
       },
       items: [
         {to: 'docs/podcasts-intro', label: 'Introduction', position: 'right'},
-        {to: 'docs/podcasts/fast-times-at-sbom-high', label: 'Podcasts', position: 'right'},
-        {to: 'docs/templates/podcast-template', label: 'Podcast Template', position: 'right'},
+        {to: 'docs/business-of-open-source', label: 'Podcasts', position: 'right'},
+        {to: 'docs/templates/podcast-template', label: 'Add New Podcast', position: 'right'},
         {
           href: 'https://github.com/mcleo-d/lf-podcast',
           label: 'GitHub',
