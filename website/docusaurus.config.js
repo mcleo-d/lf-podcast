@@ -2,7 +2,7 @@
 
 
 // Replace 'project-blueprint' with {project name}
-const projectName = 'LF Community Podcasts'
+const projectName = 'The Untold Stories of Open Source'
 // Replace 'project-blueprint' with {project name}
 const projectSlug = 'linux-foundation-podcast-project'
 // Replace 'FINOS' with {name of copyright owner}
@@ -18,13 +18,16 @@ module.exports = {
   organizationName: `${copyrightOwner}`,
   customFields: {
     repoUrl: `https://github.com/finos/${projectSlug}`,
-    ctaButton: 'CONTRIBUTE YOUR PODCAST EPISODE',
+    ctaButton: 'CONTRIBUTE YOUR LF PODCAST EPISODE',
     ctaUrl: 'https://github.com/mcleo-d/lf-podcast',
-    ctaHeader: 'Become part of the Linux Foundation network. Add your episode.'
+    ctaHeader: 'Become part of the joined up Linux Foundation podcast network'
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
   themeConfig: {
+    colorMode: {
+      disableSwitch: true
+    },
     navbar: {
       title: `${projectName}`,
       logo: {
@@ -33,8 +36,8 @@ module.exports = {
       },
       items: [
         {to: 'docs/podcasts-intro', label: 'Introduction', position: 'right'},
-        {to: 'docs/podcasts/fast-times-at-sbom-high', label: 'Podcasts', position: 'right'},
-        {to: 'docs/templates/podcast-template', label: 'Podcast Template', position: 'right'},
+        {to: 'docs/podcasts/business-of-open-source', label: 'Podcasts', position: 'right'},
+        {to: 'docs/templates/podcast-template', label: 'Add New Podcast', position: 'right'},
         {
           href: 'https://github.com/mcleo-d/lf-podcast',
           label: 'GitHub',
@@ -46,58 +49,50 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} ${projectName} - ${copyrightOwner}`,
       logo: {
         alt: 'The Linux Foundation',
-        src: 'img/favicon/lf_logo.svg',
+        src: 'img/untold-stories.png',
         href: 'https://linuxfoundation.org/'
       },
       links: [
         {
-          title: 'Docs',
+          title: 'Getting Started',
           items: [
             {
-              label: 'Getting Started',
-              to: 'docs/home',
+              label: 'Podcast Intro',
+              to: 'docs/podcasts-intro',
             },
             {
-              label: 'Roadmap',
-              to: 'docs/roadmap',
-            },
-            {
-              label: 'Team',
+              label: 'LF Podcast Team',
               to: 'docs/team',
-            },
-            {
-              label: 'About FINOS',
-              to: 'docs/about-finos',
             }
           ]
         },
         {
-          title: 'FINOS',
+          title: 'The Linux Foundation',
           items: [
             {
-              label: 'FINOS Website',
-              to: 'https://regulationinnovation.org/air-events/',
+              label: 'The Linux Foundation Website',
+              to: 'https://linuxfoundation.org/',
             },
             {
-              label: 'Community Handbook',
-              to: 'https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/80642059/Community+Handbook',
+              label: 'About',
+              to: 'https://linuxfoundation.org/about/',
             },
             {
-              label: 'Community Governance',
-              to: 'https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530783/Community+Governance',
+              label: 'Blog',
+              to: 'https://linuxfoundation.org/blog/',
             }
           ]
         },
         {
-          title: 'About FINOS',
+          title: 'Podcast Supporters',
           items: [
             {
-              label: 'FINOS Projects on GitHub',
+              label: 'Fintech Open Source Foundation',
+              to: 'https://www.finos.org/',
+            },
+            {
+              label: 'FINOS GitHub',
               to: 'https://github.com/finos',
-            },
-            {
-              label: 'Engage the FINOS Community',
-              to: 'https://www.finos.org/engage-with-our-community',
             },
             {
               label: 'FINOS News and Events',
