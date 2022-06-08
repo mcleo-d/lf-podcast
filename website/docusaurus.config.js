@@ -2,7 +2,7 @@
 
 
 // Replace 'project-blueprint' with {project name}
-const projectName = 'LF Community Podcasts'
+const projectName = 'The Untold Stories of Open Source'
 // Replace 'project-blueprint' with {project name}
 const projectSlug = 'linux-foundation-podcast-project'
 // Replace 'FINOS' with {name of copyright owner}
