@@ -10,8 +10,6 @@ From the Linux Foundation office in New York City, welcome to "The Untold Storie
 
 Listen to the latest Linux Foundation [OWASP Podcast Series](https://soundcloud.com/owasp-podcast/) where Wendy Nather and Matt Tesauro explore [Fast Times at SBOM High](https://soundcloud.com/owasp-podcast/fast-times-at-sbom-high-with-wendy-nather-and-matt-tesauro), alongside Tanya Janca as [She Hacks Purple](https://soundcloud.com/owasp-podcast/tanya-janca). Find the lastest [OWASP Podcast Series](https://soundcloud.com/owasp-podcast/) below.
 
-https://user-images.githubusercontent.com/6029572/165732703-0f3efb8e-a1c4-43f1-b5a2-fe4b8ad3ede4.mp4
-
 ## Latest Episodes and More!
 
 Find the latest Linux Foundation episodes and more below ...
