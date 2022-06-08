@@ -97,14 +97,15 @@ body{
   display: none;
 }
 
-.footer__bottom {
-  background-color: #ffffff;
-}
-
 .footer__copyright {
-  color: var(--ifm-font-color-base);
+  color: var(--ifm-font-link-color);
 }
 
 .footer__bottom a {
   opacity:1.0;
+}
+
+.footer img {
+  width: 100px;
+  height: 100px;
 }

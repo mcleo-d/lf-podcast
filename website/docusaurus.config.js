@@ -46,7 +46,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} ${projectName} - ${copyrightOwner}`,
       logo: {
         alt: 'The Linux Foundation',
-        src: 'img/favicon/lf_logo.svg',
+        src: 'img/untold-stories.png',
         href: 'https://linuxfoundation.org/'
       },
       links: [
