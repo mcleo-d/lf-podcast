@@ -1,6 +1,6 @@
 # The Untold Stories of Open Source
 
-<img src="docs/images/logo-400-400.png">
+<img src="docs/images/logo-400-400.png" width="230" height="230" />
 
 Open Source is embedded in every software application you touch today.
 
