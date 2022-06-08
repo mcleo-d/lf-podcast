@@ -18,7 +18,7 @@ module.exports = {
   organizationName: `${copyrightOwner}`,
   customFields: {
     repoUrl: `https://github.com/finos/${projectSlug}`,
-    ctaButton: 'CONTRIBUTE YOUR PODCAST EPISODE',
+    ctaButton: 'CONTRIBUTE YOUR LF PODCAST EPISODE',
     ctaUrl: 'https://github.com/mcleo-d/lf-podcast',
     ctaHeader: 'Become part of the Linux Foundation podcast network.'
   },
