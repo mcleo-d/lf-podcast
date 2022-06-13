@@ -25,7 +25,7 @@ Listen to Linux Foundation podcasts in your browser by visiting [The Untold Stor
 
 ## What the project does
 
-The Linux Podcast Project is a public podcast, highlight projects and people using open source. In addition, the podcast will regularly feature updates on project from project leads and contributors
+The Linux Foundation Podcast Project is a public podcast, highlight projects and people using open source. In addition, the podcast will regularly feature updates on project from project leads and contributors
 
 ## Why the project is useful
 
